@@ -1,0 +1,12 @@
+[app]
+port="8081"
+read_timeout=5
+write_timeout=5
+
+[database]
+database="shortener"
+host="127.0.0.1"
+port="3306"
+username="root"
+password="plasticroof991"
+
